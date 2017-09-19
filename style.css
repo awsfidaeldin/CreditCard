@@ -1,0 +1,143 @@
+    .main
+        {
+            height: 200px;
+            width: 410px;
+            background: #b3dced; /* Old browsers */
+            background: -moz-linear-gradient(top,  #b3dced 0%, #29b8e5 17%, #bce0ee 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b3dced), color-stop(17%,#29b8e5), color-stop(100%,#bce0ee)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  #b3dced 0%,#29b8e5 17%,#bce0ee 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  #b3dced 0%,#29b8e5 17%,#bce0ee 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  #b3dced 0%,#29b8e5 17%,#bce0ee 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  #b3dced 0%,#29b8e5 17%,#bce0ee 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=0 ); /* IE6-9 */
+
+            border-radius: 10px;
+            -webkit-border-radius:10px;
+            -moz-border-radius:10px;
+            -ms-border-radius:10px;
+            -o-border-radius:10px;  
+        }
+    
+    .sub1
+        { 
+            height: 20px;
+            width: 140px;
+            display: inline-block;
+            color: white;    
+            padding-left: 10px;
+        }
+        
+    .sub2
+        {
+            height: 20px;
+            width: 60px;
+            margin-left: 180px;
+            display: inline-block;
+          
+        }
+        
+    .sub3
+        {
+            height: 20px;
+            width: 110px; 
+            margin-top: 1px;
+            padding-left: 10px;
+        }
+        
+    img
+        {
+            height: 20px;
+            width: 50px;
+        }
+        
+    h4
+        {
+            color:white;
+            font-size:18px;
+            font-style:normal;
+        }
+        
+    h5
+        {
+            color:white;
+            font-size: 14px;
+        }
+    
+   .sub7 input
+        {
+            width: 370px;
+            height: 20px;
+            padding-left: 10px;
+            border-radius: 5px;
+            -webkit-border-radius:5px;
+            -moz-border-radius:5px;
+            -ms-border-radius:5px;
+            -o-border-radius:5px;  
+        }
+
+    .sub71
+        {
+            width: 370px;
+            height: 20px;
+            padding-left: 10px;  
+        }
+        
+    .sub8 input
+        {
+            width: 60px;
+            height: 20px;
+            display: inline-block; 
+            /*margin-left: 80px; */
+            border-radius: 5px;
+            -webkit-border-radius:5px;
+            -moz-border-radius:5px;
+            -ms-border-radius:5px;
+            -o-border-radius:5px;  
+            padding-right:10px;
+        }
+        
+    .sub4
+        {
+            height: 20px;
+            width: 130px;
+            display: inline-block; 
+            padding-left: 10px;
+            
+        }
+        
+    .sub5
+        {
+            height: 20px;
+            width: 80px; 
+            display: inline-block;
+            margin-left: 165px;
+        }
+        
+    .sub6
+        {
+            display: inline-block;
+            /*margin-right: 250px;  */
+            width: 295px;
+            height: 20px;  
+            padding-left: 10px;
+        }
+        
+    .sub9
+        {
+            display: inline-block;
+            width: 60px;
+            height: 20px;
+            padding-right: 10px;
+        }
+    
+    #CVCCODE
+    {
+        color:black;
+        font-size: 14px;
+    }
+
+    #CARDNUMBER
+    {
+        color:black;
+        font-size: 14px;
+    }
